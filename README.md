@@ -1,26 +1,67 @@
-<h1 align="center">Hi 👋, I'm Sharif Ullah</h1>
-<h3 align="center">A am a passionate full-stack software developer</h3>
+### Hi there 👋, I am [Sharif](https://github.com/devsharif/)! 😁
 
-- 🔭 I’m currently working on **A Boilerplate Based on .NET Core**
+Hello, my name is Sharif Ullah. I am a full-stack software developer with Two years of experience working as a Software Engineer. My technology stack involves C#/.NET, Asp.Net Mvc, .Net Core, Entity Framework, MsSql Server, MySQL, javascript, Angular.js, Angular 2x, NodeJs and other client side technologies like HTML/CSS/Bootstrap. Besides programming, I have an interest in music, cycling, gaming.
 
-- 🌱 I’m currently learning **Software Architecture, Pattern**
+- 🔭 I’m currently working with a full featured boilerplate using .net core framework
+- 💬 Brainstorm with me over tech, algorithms, career, and music 
+- 📫 How to reach me: dev.sharifullah@gmail.com
+- 😄 Interest In: Android & Ios Apps development, Game development
+- ⚡ Fun fact: In my free time i love to travelling
 
-- 👯 I’m looking to collaborate on **Some Big & Complex Project**
 
-<h3 align="left">⚙️ Connect with me:</h3>
+
+### Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sharifullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharifullah" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sharifullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sharifullah" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">🔧 Technologies & Tools</h3>
-<p align="left"> <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
+<hr>
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<br>
+<p align="center">
+  <code><img title="C#" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cSharp.svg"></code>
+  <code><img title="Javascript" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>
+  
+  <code><img title="AngularJS" height="25" src="https://angular.io/assets/images/logos/angular/angular.svg"></code>
+  <code><img title="AngularJS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/angularjs.png"></code>
+  <code><img title="Git" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/git-original.svg"></code>
+  <code><img title=".NetCore" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/dotnetcore.svg"></code>
+  <code><img title=".Net" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"></code>
+  <code><img title="MySQL" height="25" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"></code>
+  <code><img title="PostgreSQL" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/postgresql.svg"></code>
+  <code><img title="MSSQL" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></code>
+  <code><img title="MSSQL" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"></code>
+  <code><img title="MSSQL" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/mysql.svg"></code>
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devsharif&show_icons=true&locale=en&layout=compact" alt="devsharif" /></p>  
+  <code><img title="Visual Studio Code" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/vscode.png"></code>
+  <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/visualstudio.png"></code>
+  <code><img title="JQuery" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/jquery-original.svg"></code>
+  <code><img title="JSON" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/json.svg"></code>
+  <code><img title="Problem Solving" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/problemSolving.png"></code>
+  <code><img title="HTML5" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg"></code>
+  <code><img title="CSS" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></code>
+  <code><img title="CSS" height="25" src="https://www.chartjs.org/media/logo-title.svg"></code>
+  <code><img title="Android" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/android.svg"></code>
+  <code><img title="GitHub" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/github.svg"></code>
 
+</p>
+<hr>
 
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devsharif&show_icons=true&locale=en&layout=compact" alt="devsharif" /></p>
+  </div>
+  <br>
+  <div align=center>
+    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devsharif&show_icons=true&locale=en" alt="devsharif" /></p>
+  </div>
+  <br>
+</p>
 
-
-<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devsharif&show_icons=true&locale=en" alt="devsharif" /></p>
+<hr>
 
