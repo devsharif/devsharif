@@ -5,7 +5,7 @@
 
 Hello, my name is Sharif Ullah. I am a full-stack software developer with Two years of experience working as a Software Engineer. My technology stack involves C#/.NET, OOP, Asp.Net Mvc, .Net Core, Entity Framework, Web Api, MsSql Server, MySQL, JavaScript, Jquery, Ajax, RESTful APIs, Angular.js, Angular 2x, NodeJs, Design Patterns(familiar), and other client side technologies like HTML/CSS/Bootstrap. Besides programming, I have an interest in music, cycling, gaming.
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/devsharif/devsharif/main/gifs/coder.gif" />
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/devsharif/devsharif/main/gifs/coder.gif" />&nbsp;&nbsp;&nbsp;
 <br>
 
 - 🔭 I’m currently working with a full featured boilerplate using .Net Core framework
@@ -20,7 +20,7 @@ Hello, my name is Sharif Ullah. I am a full-stack software developer with Two ye
 
 
 <hr>
-<h3 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h3 align="center">🔥 Languages, Frameworks, Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
   <code><img title="C#" height="25" src="https://raw.githubusercontent.com/devsharif/devsharif/7ea140617e93a35a341959a9601f1b18960e7d51/icon/cSharp.svg"></code>
