@@ -1,4 +1,3 @@
-<meta name="google-site-verification" content="5zMdOe6VR4yB8e2iV0XdyJP9b4LVaIr4Ra1pA67erC4" />
 ### Hi there 👋, I am [Sharif](https://github.com/devsharif/)! 😁
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sharifullah)
 [![Hackerrank Badge](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerrank.com/sharifullah)
