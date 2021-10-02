@@ -49,8 +49,11 @@ Hello, my name is Sharif Ullah. I am a full-stack software developer with Two ye
 
 </p>
 <hr>
-<img 
-src="https://raw.githubusercontent.com/devsharif/devsharif/main/project/boilerplate/1.png" width="45%"></img> <img src="https://raw.githubusercontent.com/devsharif/devsharif/main/project/boilerplate/2.png" width="45%"></img> <img src="https://raw.githubusercontent.com/devsharif/devsharif/main/project/boilerplate/3.png" width="45%"></img> <img src="https://raw.githubusercontent.com/devsharif/devsharif/main/project/boilerplate/4.png" width="45%"></img> <img src="https://raw.githubusercontent.com/devsharif/devsharif/main/project/boilerplate/5.png" width="45%"></img> <img src="https://raw.githubusercontent.com/devsharif/devsharif/main/project/boilerplate/6.png" width="45%"></img> <img src="https://raw.githubusercontent.com/devsharif/devsharif/main/project/boilerplate/7.png" width="45%"></img> <img src="https://raw.githubusercontent.com/devsharif/devsharif/main/project/boilerplate/8.png" width="45%"></img> <img src="https://raw.githubusercontent.com/devsharif/devsharif/main/project/boilerplate/9.png" width="45%"></img> 
+<h3 align="center">SU Boilerplate v1.0 Preview</h2>
+<p align="center">
+  <img 
+src="https://raw.githubusercontent.com/devsharif/devsharif/main/project/boilerplate/1.png" width="49%"></img> <img src="https://raw.githubusercontent.com/devsharif/devsharif/main/project/boilerplate/2.png" width="49.7%"></img> <img src="https://raw.githubusercontent.com/devsharif/devsharif/main/project/boilerplate/3.png" width="49%"></img> <img src="https://raw.githubusercontent.com/devsharif/devsharif/main/project/boilerplate/4.png" width="49%"></img> <img src="https://raw.githubusercontent.com/devsharif/devsharif/main/project/boilerplate/5.png" width="49%"></img> <img src="https://raw.githubusercontent.com/devsharif/devsharif/main/project/boilerplate/6.png" width="49%"></img> <img src="https://raw.githubusercontent.com/devsharif/devsharif/main/project/boilerplate/7.png" width="49%"></img> <img src="https://raw.githubusercontent.com/devsharif/devsharif/main/project/boilerplate/8.png" width="49%"></img> <img src="https://raw.githubusercontent.com/devsharif/devsharif/main/project/boilerplate/9.png" width="49%"></img> <img src="https://raw.githubusercontent.com/devsharif/devsharif/main/project/boilerplate/10.png" width="49%"></img> 
+</p>
 <hr>
 
 <h3 align="center">⚡ Stats ⚡</h2>
