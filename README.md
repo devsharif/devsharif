@@ -3,14 +3,15 @@
 [![Hackerrank Badge](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerrank.com/sharifullah)
 
 
-Hello, my name is Sharif Ullah. I am a full-stack software developer with Two years of experience working as a Software Engineer. My technology stack involves C#/.NET, OOP, Asp.Net Mvc, .Net Core, Entity Framework, Web Api, MsSql Server, MySQL, JavaScript, Jquery, Ajax, RESTful APIs, Angular.js, Angular 2x, NodeJs, Design Patterns(familiar), and other client side technologies like HTML/CSS/Bootstrap. Besides programming, I have an interest in music, cycling, gaming.
+Hello, my name is Sharif Ullah. I am a full-stack software developer with Two years of experience working as a Software Engineer. My technology stack involves C#, .NET, OOP, ASP.Net MVC, .Net Core, Entity Framework, Web Api, REST Api, MsSql Server, MySQL, JavaScript, Jquery, Ajax, RESTful APIs, Angular.js, Angular 2x, NodeJs, Design Patterns(familiar), and other client-side technologies like HTML/CSS/Bootstrap. Besides programming, I have an interest in music, cycling, gaming and traveling.
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/devsharif/devsharif/main/gifs/coder.gif" />&nbsp;&nbsp;&nbsp;
 <br>
 
 - 🔭 I’m currently working with a full featured boilerplate using .Net Core framework
+- 🖥️ Checkout my build-package at [Nuget.org](https://www.nuget.org/profiles/devsharif)
 - 💬 Brainstorm with me over tech, algorithms, career, and music 
-- 📫 How to reach me: dev.sharifullah@gmail.com
+- 📧 How to reach me: dev.sharifullah@gmail.com
 - ⚡ Interest In: Android & Ios Apps development, Game development
 - 😄 Fun fact: In my free time i love to travelling
 
@@ -20,7 +21,7 @@ Hello, my name is Sharif Ullah. I am a full-stack software developer with Two ye
 
 
 <hr>
-<h3 align="center">🔥 Languages, Frameworks, Tools & Abilities 🔥</h2>
+<h3 align="center">💎 Languages, Frameworks, Tools & Abilities 💎</h2>
 <br>
 <p align="center">
   <code><img title="C#" height="25" src="https://raw.githubusercontent.com/devsharif/devsharif/7ea140617e93a35a341959a9601f1b18960e7d51/icon/cSharp.svg"></code>
@@ -56,7 +57,7 @@ src="https://raw.githubusercontent.com/devsharif/devsharif/main/project/boilerpl
 </p>
 <hr>
 
-<h3 align="center">⚡ Stats ⚡</h2>
+<h3 align="center">📈 Stats 📈</h2>
 <br>
 <p align=center>
   <div align=center>
