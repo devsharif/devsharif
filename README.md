@@ -1,74 +1,188 @@
-### Hi there 👋, I am [Sharif](https://github.com/devsharif/)! 😁
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sharifullah)
-[![Hackerrank Badge](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerrank.com/sharifullah)
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Sharif+Ullah;Full-Stack+.NET+Engineer+—+Since+2020;Clean+Architecture+%E2%80%A2+ERP+%E2%80%A2+Event-Driven+Systems;Docker+%E2%80%A2+RabbitMQ+%E2%80%A2+Keycloak+%E2%80%A2+Angular)](https://github.com/devsharif)
 
-Hello, my name is Sharif Ullah. I am a full-stack software developer with Two years of experience working as a Software Engineer. My technology stack involves C#, .NET, OOP, ASP.Net MVC, .Net Core, Entity Framework, Web Api, REST Api, MsSql Server, MySQL, JavaScript, Jquery, Ajax, RESTful APIs, Angular.js, Angular 2x, NodeJs, Design Patterns(familiar), and other client-side technologies like HTML/CSS/Bootstrap. Besides programming, I have an interest in music, cycling, gaming and traveling.
+**Full-Stack .NET Engineer · Clean Architecture · Event-Driven Microservices**
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/devsharif/devsharif/main/gifs/coder.gif" />&nbsp;&nbsp;&nbsp;
-<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sharifullah)
+[![NuGet](https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white)](https://www.nuget.org/profiles/devsharif)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/sharifullah)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.sharifullah@gmail.com)
+[![Location](https://img.shields.io/badge/Dhaka-Bangladesh-0AA36B?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/devsharif)
 
-- 🔭 I’m currently working with a full featured boilerplate using .Net Core framework
-- 🖥️ Checkout my build-package at [Nuget.org](https://www.nuget.org/profiles/devsharif)
-- 💬 Brainstorm with me over tech, algorithms, career, and music 
-- 📧 How to reach me: dev.sharifullah@gmail.com
-- ⚡ Interest In: Android & Ios Apps development, Game development
-- 😄 Fun fact: In my free time i love to travelling
+![Profile Views](https://komarev.com/ghpvc/?username=devsharif&label=profile+views&color=58a6ff&style=flat)
 
+</div>
 
-<br><br><br>
+---
 
+## Engineering Profile
 
+<table>
+<tr>
+<td width="62%" valign="top">
 
-<hr>
-<h3 align="center">💎 Languages, Frameworks, Tools & Abilities 💎</h2>
-<br>
+**Sharif Ullah** — Full-Stack Software Engineer from Dhaka, Bangladesh, building production .NET systems since **2020**.
+
+Specialized in **ASP.NET Core + Clean Architecture**: modular monoliths that evolve cleanly into **event-driven microservices** — hardened with Docker, RabbitMQ, Redis, and Keycloak SSO.
+
+**Production track record:** ERP platforms · Diagnostic / hospital management · Payment-gateway integrations · Full-featured boilerplates · Extensions & tooling · Published NuGet packages.
+
+- ◆ Architecture-first: SOLID, DDD, CQRS + MediatR, versioned REST APIs
+- ◆ Data: SQL Server, PostgreSQL, MySQL, MongoDB, Redis — EF Core + Dapper
+- ◆ Frontend: Angular, TypeScript, admin / ERP / reporting UIs
+- ◆ Delivery: Docker Compose one-command stacks, GitHub Actions CI/CD, Serilog observability
+
+</td>
+<td width="38%" align="center" valign="middle">
+<img src="https://raw.githubusercontent.com/devsharif/devsharif/main/gifs/coder.gif" width="100%" alt="engineering" />
+<br/><sub>Music · Cycling · Gaming · Travelling</sub>
+</td>
+</tr>
+</table>
+
+---
+
+## Core Stack
+
+<div align="center">
+
+[![Core](https://skillicons.dev/icons?i=cs,dotnet,ts,js,angular,nodejs,html,css,bootstrap,jquery&theme=dark)](https://github.com/devsharif)
+<br/>
+[![Data & Infra](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,rabbitmq,kafka,docker,kubernetes,nginx,git,github,vscode,visualstudio,postman,azure&theme=dark)](https://github.com/devsharif)
+
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat&logo=keycloak&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![MediatR CQRS](https://img.shields.io/badge/CQRS_MediatR-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Hangfire](https://img.shields.io/badge/Hangfire-0A0A0A?style=flat&logo=dotnet&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat&logo=dotnet&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Backend**
+- ASP.NET Core Web API / MVC / Minimal APIs
+- Clean Architecture, DDD, CQRS + MediatR
+- EF Core, Dapper, FluentValidation
+- Keycloak / Identity / JWT / OAuth2 / OIDC
+- Hangfire, Quartz, HostedServices
+
+</td>
+<td width="50%" valign="top">
+
+**Distributed Systems & DevOps**
+- RabbitMQ (exchanges, DLQ, retries, outbox)
+- Redis cache, SignalR real-time
+- Docker multi-stage + Compose stacks
+- Nginx, GitHub Actions, Seq / Serilog
+- Health checks, global error handling
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Frontend**
+- Angular 2x+, TypeScript, RxJS
+- AngularJS legacy migration
+- ERP / dashboard / reporting UIs
+- HTML / CSS / Bootstrap, Chart.js
+
+</td>
+<td width="50%" valign="top">
+
+**Data**
+- SQL Server, PostgreSQL, MySQL
+- MongoDB, Redis
+- Migrations, seeding, auditing
+- Reconciliation-safe payment flows
+
+</td>
+</tr>
+</table>
+
+---
+
+## Architecture Blueprint
+
+Standard layout for every serious backend:
+
+```
+src/
+├── Domain/            # entities, value objects, domain events, interfaces
+├── Application/       # CQRS handlers, DTOs, validators, pipelines, specs
+├── Infrastructure/    # EF Core, RabbitMQ, Redis, Keycloak, email/SMS, jobs
+└── WebApi/            # controllers / minimal APIs, middleware, versioning
+```
+
+```mermaid
+flowchart LR
+  Client[Angular / SPA] --> Gateway[API Gateway + Keycloak Auth]
+  Gateway --> API1[Core API<br/>.NET + EF Core]
+  Gateway --> API2[Domain Services<br/>.NET + CQRS]
+  API1 <--> MQ[(RabbitMQ<br/>events + commands)]
+  API2 <--> MQ
+  MQ --> Worker[Workers<br/>Hangfire / Consumers]
+  API1 --> SQL[(SQL Server / Postgres)]
+  API2 --> SQL
+  API2 --> Cache[(Redis)]
+  Worker --> Mongo[(MongoDB / Logs)]
+  API1 -.-> Docker[Docker + Compose<br/>CI/CD via Actions]
+  API2 -.-> Docker
+```
+
+**Engineering defaults:** SOLID · idempotent consumers · versioned REST · EF migrations · Serilog + Seq · audit trails · `api + db + rabbitmq + keycloak + redis` up in one command.
+
+---
+
+## Selected Work
+
+| Domain | Highlights |
+|---|---|
+| **ERP System** | Inventory, sales / purchase, HR & payroll, accounts · role-based access · reporting + audit trails |
+| **Diagnostic Management** | Patient registration, test booking, lab workflow, report delivery, billing |
+| **Payment Gateways** | Checkout, callbacks / webhooks, reconciliation, failure retries |
+| **SU Boilerplate** | Full-featured .NET starter — Clean Architecture, auth / roles, CRUD scaffolding, notifications |
+| **Extensions & Tooling** | `AngularProjectGenerator` one-click scaffold · `js-media-selector` · WinForms utilities |
+| **NuGet Packages** | `SUAspNetCore.Notifier` — server-side toasts for ASP.NET Core · [nuget.org/profiles/devsharif](https://www.nuget.org/profiles/devsharif) |
+
+→ Full index: [github.com/devsharif?tab=repositories](https://github.com/devsharif?tab=repositories)
+
+<details>
+<summary><b>SU Boilerplate — visual preview (10 screens)</b></summary>
+<br/>
 <p align="center">
-  <code><img title="C#" height="25" src="https://raw.githubusercontent.com/devsharif/devsharif/7ea140617e93a35a341959a9601f1b18960e7d51/icon/cSharp.svg"></code>
-  <code><img title=".NetCore" height="25" src="https://raw.githubusercontent.com/devsharif/devsharif/7ea140617e93a35a341959a9601f1b18960e7d51/icon/dotnetcore.svg"></code>
-  <code><img title=".Net" height="25" src="https://raw.githubusercontent.com/devsharif/devsharif/7ea140617e93a35a341959a9601f1b18960e7d51/icon/dot-net-original-wordmark.svg"></code>
-  <code><img title="Javascript" height="25" src="https://raw.githubusercontent.com/devsharif/devsharif/7ea140617e93a35a341959a9601f1b18960e7d51/icon/javascript.svg"></code>
-  <code><img title="Git" height="25" src="https://raw.githubusercontent.com/devsharif/devsharif/7ea140617e93a35a341959a9601f1b18960e7d51/icon/git-original.svg"></code>
-  <code><img title="AngularJS" height="25" src="https://raw.githubusercontent.com/devsharif/devsharif/7ea140617e93a35a341959a9601f1b18960e7d51/icon/angular.svg"></code>
-  <code><img title="AngularJS" height="25" src="https://raw.githubusercontent.com/devsharif/devsharif/7a452895e44e178037b6971a29be48e1691f6290/icon/angularjs.svg"></code>
-  <code><img title="MsSQL" height="25" src="https://raw.githubusercontent.com/devsharif/devsharif/7a452895e44e178037b6971a29be48e1691f6290/icon/mssql.svg"></code>
-  <code><img title="PostgreSQL" height="25" src="https://raw.githubusercontent.com/devsharif/devsharif/7ea140617e93a35a341959a9601f1b18960e7d51/icon/postgresql.svg"></code>
-  <code><img title="Mongodb" height="25" src="https://raw.githubusercontent.com/devsharif/devsharif/7ea140617e93a35a341959a9601f1b18960e7d51/icon/mongodb-original-wordmark.svg"></code>
-  <code><img title="Redis" height="25" src="https://raw.githubusercontent.com/devsharif/devsharif/7ea140617e93a35a341959a9601f1b18960e7d51/icon/redis-original-wordmark.svg"></code>
-  <code><img title="Mysql" height="25" src="https://raw.githubusercontent.com/devsharif/devsharif/7ea140617e93a35a341959a9601f1b18960e7d51/icon/mysql.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="https://raw.githubusercontent.com/devsharif/devsharif/7a452895e44e178037b6971a29be48e1691f6290/icon/icons8-visual-studio-code-2019.svg"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="https://raw.githubusercontent.com/devsharif/devsharif/7a452895e44e178037b6971a29be48e1691f6290/icon/icons8-visual-studio-2019.svg"></code>
-  <code><img title="JQuery" height="25" src="https://raw.githubusercontent.com/devsharif/devsharif/7a452895e44e178037b6971a29be48e1691f6290/icon/jquery-original.svg"></code>
-  <code><img title="JSON" height="25" src="https://raw.githubusercontent.com/devsharif/devsharif/7a452895e44e178037b6971a29be48e1691f6290/icon/json.svg"></code>
-  <code><img title="Problem Solving" height="25" src="https://raw.githubusercontent.com/devsharif/devsharif/7a452895e44e178037b6971a29be48e1691f6290/icon/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="https://raw.githubusercontent.com/devsharif/devsharif/7a452895e44e178037b6971a29be48e1691f6290/icon/html5.svg"></code>
-  <code><img title="CSS" height="25" src="https://raw.githubusercontent.com/devsharif/devsharif/7a452895e44e178037b6971a29be48e1691f6290/icon/css.svg"></code>
-  <code><img title="Bootstrap" height="25" src="https://raw.githubusercontent.com/devsharif/devsharif/7a452895e44e178037b6971a29be48e1691f6290/icon/bootstrap-plain-wordmark.svg"></code>
-  <code><img title="Chartjs" height="25" src="https://raw.githubusercontent.com/devsharif/devsharif/7a452895e44e178037b6971a29be48e1691f6290/icon/chartjs.svg"></code>
-  <code><img title="Android" height="25" src="https://raw.githubusercontent.com/devsharif/devsharif/7ea140617e93a35a341959a9601f1b18960e7d51/icon/android.svg"></code>
-  <code><img title="GitHub" height="25" src="https://raw.githubusercontent.com/devsharif/devsharif/7ea140617e93a35a341959a9601f1b18960e7d51/icon/github.svg"></code>
-
+  <img src="https://raw.githubusercontent.com/devsharif/devsharif/main/project/boilerplate/1.png" width="49%"></img> <img src="https://raw.githubusercontent.com/devsharif/devsharif/main/project/boilerplate/2.png" width="49%"></img> <img src="https://raw.githubusercontent.com/devsharif/devsharif/main/project/boilerplate/3.png" width="49%"></img> <img src="https://raw.githubusercontent.com/devsharif/devsharif/main/project/boilerplate/4.png" width="49%"></img> <img src="https://raw.githubusercontent.com/devsharif/devsharif/main/project/boilerplate/5.png" width="49%"></img> <img src="https://raw.githubusercontent.com/devsharif/devsharif/main/project/boilerplate/6.png" width="49%"></img> <img src="https://raw.githubusercontent.com/devsharif/devsharif/main/project/boilerplate/7.png" width="49%"></img> <img src="https://raw.githubusercontent.com/devsharif/devsharif/main/project/boilerplate/8.png" width="49%"></img> <img src="https://raw.githubusercontent.com/devsharif/devsharif/main/project/boilerplate/9.png" width="49%"></img> <img src="https://raw.githubusercontent.com/devsharif/devsharif/main/project/boilerplate/10.png" width="49%"></img>
 </p>
-<hr>
-<h3 align="center">SU Boilerplate v1.0 Preview</h2>
-<p align="center">
-  <img 
-src="https://raw.githubusercontent.com/devsharif/devsharif/main/project/boilerplate/1.png" width="49%"></img> <img src="https://raw.githubusercontent.com/devsharif/devsharif/main/project/boilerplate/2.png" width="49.7%"></img> <img src="https://raw.githubusercontent.com/devsharif/devsharif/main/project/boilerplate/3.png" width="49%"></img> <img src="https://raw.githubusercontent.com/devsharif/devsharif/main/project/boilerplate/4.png" width="49%"></img> <img src="https://raw.githubusercontent.com/devsharif/devsharif/main/project/boilerplate/5.png" width="49%"></img> <img src="https://raw.githubusercontent.com/devsharif/devsharif/main/project/boilerplate/6.png" width="49%"></img> <img src="https://raw.githubusercontent.com/devsharif/devsharif/main/project/boilerplate/7.png" width="49%"></img> <img src="https://raw.githubusercontent.com/devsharif/devsharif/main/project/boilerplate/8.png" width="49%"></img> <img src="https://raw.githubusercontent.com/devsharif/devsharif/main/project/boilerplate/9.png" width="49%"></img> <img src="https://raw.githubusercontent.com/devsharif/devsharif/main/project/boilerplate/10.png" width="49%"></img> 
-</p>
-<hr>
+</details>
 
-<h3 align="center">📈 Stats 📈</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devsharif&show_icons=true&locale=en&layout=compact" alt="devsharif" /></p>
-  </div>
-  <br>
-  <div align=center>
-    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devsharif&show_icons=true&locale=en" alt="devsharif" /></p>
-  </div>
-  <br>
-</p>
+---
 
-<hr>
+## Analytics
 
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=devsharif&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=devsharif&layout=compact&theme=tokyonight&hide_border=true)
+<br/>
+![Streak](https://streak-stats.demolab.com?user=devsharif&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+**Let's build systems that scale.**
+
+📧 **dev.sharifullah@gmail.com** · 💼 [linkedin.com/in/sharifullah](https://linkedin.com/in/sharifullah) · 📦 [nuget.org/profiles/devsharif](https://www.nuget.org/profiles/devsharif)
+
+<sub>Clean input → solid architecture → shippable output.</sub>
+
+</div>
