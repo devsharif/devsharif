@@ -168,10 +168,17 @@ flowchart LR
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=devsharif&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=devsharif&layout=compact&theme=tokyonight&hide_border=true)
+![Followers](https://img.shields.io/github/followers/devsharif?style=flat&label=followers&color=58a6ff)
+![Stars](https://img.shields.io/github/stars/devsharif?style=flat&label=stars&color=58a6ff)
+![Repos](https://img.shields.io/github/repo-size/devsharif/devsharif?style=flat&label=profile-repo&color=58a6ff)
+
 <br/>
+
 ![Streak](https://streak-stats.demolab.com?user=devsharif&theme=tokyonight&hide_border=true)
+
+![Contributions](https://ghchart.rshah.org/58a6ff/devsharif)
+
+<sub>Contribution graph + streak are live. Detailed language mix is covered in <b>Core Stack</b> above.</sub>
 
 </div>
 
